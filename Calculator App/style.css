@@ -1,0 +1,22 @@
+.row{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+.btn{
+    padding: 15px;
+    margin: 4px;
+    border-radius: 7px;
+    border: solid rgb(207, 10, 207) 1.5px;
+    width: 65px;
+}
+.btn:hover{
+    cursor: pointer;
+    border: solid rgb(0, 0, 0) 2px;
+}
+.input {
+    margin: 12px;
+    padding: 7px 9px;
+    border-radius: 9px;
+    font-size: 22px;
+}
